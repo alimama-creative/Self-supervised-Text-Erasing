@@ -1,0 +1,6 @@
+albumentations <=0.4.5
+dominate
+pillow >= 6.2.0
+imutils
+pygame==1.9.3
+scipy==1.0.0

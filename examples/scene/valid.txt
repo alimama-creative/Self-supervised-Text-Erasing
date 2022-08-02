@@ -1,0 +1,5 @@
+valid/all_images/1.jpg
+valid/all_images/2.jpg
+valid/all_images/3.jpg
+valid/all_images/4.jpg
+valid/all_images/5.jpg
