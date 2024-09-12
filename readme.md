@@ -19,11 +19,11 @@ You can download the checkpoints for the posterErase dataset as follows:
 
 1. Self-supervised Text Trasing : 
     
-    download from [oss](), and put it under './checkpoints/erasenet/ste/best_net_G.pth'
+    download from [huggingface](https://huggingface.co/alimama-creative/Self-Supervised-Text-Erasing), and put it under './checkpoints/erasenet/ste/best_net_G.pth'
 
 2. Finetuning on STE : 
 
-    download from [oss](), and put it under './checkpoints/erasenet/ft/best_net_G.pth'
+    download from [huggingface](https://huggingface.co/alimama-creative/Self-Supervised-Text-Erasing), and put it under './checkpoints/erasenet/ft/best_net_G.pth'
 
 ## Runing
 
